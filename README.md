@@ -178,24 +178,25 @@ jobs:
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
 </p>
 
-## 📡PANEL DEPLOYMENT OPTIONS
+## 📡 PANEL DEPLOYMENT OPTIONS
 
-> Get the latest bot zip file for panel deployment:
+> Get the latest MALVIN-XD bot zip file for panel-based deployment:
 
-<p align="left">
-  <tr>
-    <td>
-      <a href="https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip" target="_blank">
-        <img alt="Panel Zip File" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
+<div align="left">
+  <a href="https://github.com/XdKing2/MALVIN-XD/archive/refs/heads/main.zip" target="_blank">
+    <img alt="Download Panel ZIP" src="https://img.shields.io/badge/View-panel%20Codes-FF0000?style=for-the-badge&logo=bot&logoColor=white"/>
+  </a>
+</div>
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="100%" />
 </p>
 
-> Deploy to any panel of ur choice
+> ✅ Deploy to any panel service of your choice.
+
+---
+
+### 🛠️ Recommended Hosting Panels
 
 <div align="center">
   <table>
@@ -221,24 +222,33 @@ jobs:
   </table>
 </div>
 
-> Màke sure your panel have atleast 2gb ram for now
->  am working on malvin xd to work on free panel servers
-<p align="center"><img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/></p>
+> 💡 Ensure your panel has **at least 2GB RAM**  
+> 🔧 _Working on MALVIN-XD compatibility with free-tier panel hosts_
 
-## ⚠️ Disclaimer
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
+
+---
+
+## ⚠️ DISCLAIMER
 
 - ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
-- 🚫 Misuse can lead to bans. Use at your own risk.
-- 🛑 Cloning or modifying without proper credit is prohibited.
+- 🚫 Misuse may lead to account bans. Use responsibly.
+- 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
 
-<p align="center"><img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/></p>
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
+</p>
 
-## 💡 Credits & Contributors
+---
 
-> Made with ❤️ by Malvin
+## 💡 CREDITS & CONTRIBUTORS
 
-- 👤 [Malvin King](https://github.com/XdKing2) – Creator & Maintainer  
-  - Optimized scripts, plugin management, core features
+> Built with ❤️ by **Malvin King**
+
+- 👤 [Malvin King](https://github.com/XdKing2) — Creator & Maintainer  
+  - Core features, plugin manager, deployment tools, performance optimization
 
 ---
 
@@ -246,25 +256,25 @@ jobs:
 
 <p align="center">
   <a href="https://github.com/XdKing2">
-    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=XdKing2&show_icons=true&theme=radical" />
   </a>
 </p>
+
 <div align="center">
   <img src="https://github.com/XdKing2/MALVIN-XD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
+---
 
-## 🌐 Join Our Support Channels
+## 🌐 JOIN OUR SUPPORT CHANNELS
 
-> Never miss updates, feature drops, or guides!
+> 🔔 Stay connected for updates, feature drops, and tutorials!
 
 - ▶️ **YouTube: MalvinTech**  
   [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@malvintech2)
 
-
-
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider" />
+  <img src="https://i.imgur.com/LyHic3i.gif" alt="footer divider"/>
 </p>
 
 ---
@@ -276,19 +286,14 @@ jobs:
 ! Version: 0.0.5 Neon Edition
 # License: APACHE
 ```
-<p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
-</p>
-<h1 align="center">Thanks to our loyal followers</h1>
 
-<p align="center">
-  <a href="https://github.com/XdKing2/MALVIN-XD/stargazers">
-    <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD">
-  </a>
-</p>
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" /> </p> <h2 align="center">💫 Thanks to our loyal followers</h2> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/stargazers"> <img src="http://reporoster.com/stars/dark/XdKing2/MALVIN-XD" alt="Stargazers repo roster for @XdKing2/MALVIN-XD"> </a> </p> <p align="center"> <a href="https://github.com/XdKing2/MALVIN-XD/network/members"> <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD"> </a> </p> 
 
-<p align="center">
-  <a href="https://github.com/XdKing2/MALVIN-XD/network/members">
-    <img src="http://reporoster.com/forks/dark/XdKing2/MALVIN-XD" alt="Forkers repo roster for @XdKing2/MALVIN-XD">
-  </a>
-</p>
+
+
+
+
+
+
+
+
